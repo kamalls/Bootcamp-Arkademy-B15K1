@@ -1,0 +1,23 @@
+.search {
+	width: 900px;
+	height: 48px;
+	background: #CECECE;
+	border-radius: 10px;
+	margin-left: 30px;
+	margin-right: 26px;
+	
+}
+
+.navbar-brand {
+	margin-left: 20px;
+}
+
+.btn-warning {
+	margin-left: 30px;
+	background: #F4A460;
+	width: 100px;
+}
+
+.thead {
+	background-color: #F4A460;
+}
